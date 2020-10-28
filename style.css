@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+main {
+    margin: 3rem auto;
+    /* leave 5% left and right */
+    max-width: 90vw; 
+    /* 50 characters, use text size for width */
+    max-width: 50ch;
+}
